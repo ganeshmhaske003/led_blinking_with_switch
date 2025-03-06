@@ -8,7 +8,7 @@ This is simple led blinking with switch using Arduino uno
 - 125 ohm Resistor
 - Breadboard
 - jumper Wire
-- (You can also online https://www.tinkercad.com/ for Online Simulation )
+- (You can also use https://www.tinkercad.com/ for online Simulation )
 
 ## Code
 ```cpp
